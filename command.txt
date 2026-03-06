@@ -1,0 +1,1 @@
+python -m ipykernel install --user --name global_venv --display-name "Python (global_venv)"
